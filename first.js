@@ -1,2 +1,1 @@
-//first javascript file
-
+//www.javascript.info
